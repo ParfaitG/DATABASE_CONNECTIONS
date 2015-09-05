@@ -4,13 +4,17 @@ PHP, Python, R, SAS, and VBA Scripts to connect to file level (SQLite, MS Access
 
 **REQUIREMENTS**: 
 
-1. PHP5+ - sqlite, mysql, and sqlsrv PDO extensions; 
+1. PHP (5+) - sqlite, mysql, and sqlsrv PDO extensions; 
 
-2. Python3 - sqlite3, pymysql and pypyodbc modules;
+2. Python (3+) - sqlite3, pymysql and pypyodbc modules;
 
-3. R3 - RSqlite, RODBC, and RMySQL libraries; 
+3. R (3+) - RSqlite, RODBC, and RMySQL libraries; 
 
-4. All above - ODBC/OLEDB drivers and user-created DSNs;
+4. SAS (9.2+) 
+
+5. VBA (MS Office 2010+) 
+
+6. All above - ODBC/OLEDB drivers and user-created DSNs;
 
 ###GETTING STARTED
 

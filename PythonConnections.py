@@ -42,7 +42,7 @@ db.close()
 
 # (USING DRIVER)
 databasename = 'C:\\Path\\To\\Database\\File.accdb'
-constr = "DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};DBQ={0};".format(databasename)
+constr = "DRIVER={{Microsoft Access Driver (*.mdb, *.accdb)}};DBQ={0};".format(databasename)
 
 db = pypyodbc.connect(constr)
 cur = db.cursor()

@@ -1,10 +1,12 @@
 # DATABASE_CONNECTIONS
 
-PHP, Python, R, SAS, and VBA Scripts to connect to file level (SQLite, MS Access) and server level (MySQL, SQL Server) databases using various modules and ODBC drivers.
+Java, PHP, Python, R, SAS, and VBA Scripts to connect to file level (SQLite, MS Access) and server level (MySQL, SQL Server) databases using various modules and ODBC drivers.
 
 **REQUIREMENTS**: 
 
-1. PHP (5+) - sqlite, mysql, and sqlsrv PDO extensions; 
+1. Java (8+) - jdbc sqlite, mysql, ucanaccess, and sqlserver drivers;
+
+2. PHP (5+) - sqlite, mysql, and sqlsrv PDO extensions; 
 
 2. Python (3+) - sqlite3, pymysql and pypyodbc modules;
 

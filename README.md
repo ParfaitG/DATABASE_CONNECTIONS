@@ -18,6 +18,6 @@ Java, PHP, Python, R, SAS, and VBA Scripts to connect to file level (SQLite, MS 
 
 6. All above - ODBC/OLEDB drivers and user-created DSNs;
 
-###GETTING STARTED
+### GETTING STARTED
 
 Download needed generalized script(s) and amend to project needs, making sure to enter proper database credentials (hostname, database, username, password).
